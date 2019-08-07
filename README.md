@@ -1,5 +1,5 @@
 # AWSBotoTagVsServiceAnalysis
-An AWS boto3 python jupyter notebook extracting tag used by service (arn) for an account and visualising in a seaborn heatmap without output to PDF.
+An AWS boto3 python jupyter notebook extracting tag used by service (arn) for an account and visualising in a seaborn heatmap with output to PDF.
 
 You will need a programmatic user in the target account with atleast ResourceGroupsandTagEditorReadOnlyAccess policy attached
 
